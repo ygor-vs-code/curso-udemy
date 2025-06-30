@@ -1,0 +1,15 @@
+nome = input(str('Digite seu nome:'))
+sobrenome = input(str('Digite seu sobrenome:'))
+idade = input(str('Digite sua idade:'))
+ano_nascimento = input(str('Digite sua data de nascimento:'))
+maior_de_idade = bool(int(idade) >= 18)
+altura_metros = float(input('Digite sua altura em metros:'))
+
+
+print('------------------------------------------------------------------')
+print('Nome:', nome)
+print('Sobrenome:', sobrenome)
+print('Idade:', idade)
+print('Ano de Nascimento:', ano_nascimento)
+print('Maior de idade:', maior_de_idade)
+print('Alutra em Metros', altura_metros)
