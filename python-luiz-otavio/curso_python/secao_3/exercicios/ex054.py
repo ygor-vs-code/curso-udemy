@@ -7,8 +7,9 @@ while True:
                   '[i]nserir [a]pagar [l]istar [e]xcluir [s]sair: ')
     
     if opcao.lower() == 'i':
-
+        
         valor = input('Valor: ')
+
         if valor in lista:
             print('Esse valor já foi inserido.')
         else:
