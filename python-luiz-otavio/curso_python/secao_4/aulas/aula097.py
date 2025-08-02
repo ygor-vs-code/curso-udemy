@@ -14,7 +14,7 @@ sys.path.append(r'C:\Users\ygor-vs-code\Documents\GitHub\exercicios-python\catal
 
 
 import aula097_m
-import catalogo_de_produtos
+# import catalogo_de_produtos
 
 print('Este módulo se chama', __name__)
 print(*sys.path, sep='\n')
