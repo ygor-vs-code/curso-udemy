@@ -10,10 +10,11 @@ O python conhece todos os módulos e pacotes presentes
 nos caminhos de sys.path
 """
 import sys
-sys.path.append('/home/ygorvs/Documentos/GitHub/exercicios-python/catalogo_de_produtos/')
+sys.path.append(r'C:\Users\ygor-vs-code\Documents\GitHub\exercicios-python\catalogo_de_produtos')
+
 
 import aula097_m
-import catalogo_de_produtos.py
+import catalogo_de_produtos
 
 print('Este módulo se chama', __name__)
 print(*sys.path, sep='\n')
