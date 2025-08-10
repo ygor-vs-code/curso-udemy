@@ -9,7 +9,7 @@ def generator(n=0, maximum=10):
         if n >= maximum:
             return
         
-gen = generator(maximum=10000)
+gen = generator(maximum=10)
 for n in gen:
     print(n)
 
