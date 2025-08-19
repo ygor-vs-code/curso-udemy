@@ -9,6 +9,10 @@
 # Resultado
 # [('Salvador', 'BA'), ('Ubatuba', 'SP'), ('Belo Horizonte', 'MG')]
 
+
+
+# Esse meu exercício está errado
+
 lista_1 = ['Salvador', 'Ubatuba', 'Belo Horizonte']
 lista_2 = ['BA', 'SP', 'MG', 'RJ']
 lista_geral = set()
