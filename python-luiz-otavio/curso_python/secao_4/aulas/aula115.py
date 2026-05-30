@@ -18,3 +18,5 @@
 # Linux e Mac: source venv/bin/activate
 # Desativar: deactivate
 #
+
+print("oi")
