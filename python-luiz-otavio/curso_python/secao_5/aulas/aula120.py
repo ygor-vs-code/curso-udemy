@@ -13,11 +13,12 @@ class Pessoa:
         self.nome = nome
         self.sobrenome = sobrenome
 
-p1 = Pessoa('Ygor', 'Victor')
+
+p1 = Pessoa("Ygor", "Victor")
 # p1.nome = 'Ygor'
 # p1.sobrenome = 'Santos'
 
-p2 = Pessoa('Maria', 'Joana')
+p2 = Pessoa("Maria", "Joana")
 # p2.nome = 'Maria'
 # p2.sobrenome = 'Joana'
 

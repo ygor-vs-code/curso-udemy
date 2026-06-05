@@ -1,3 +1,5 @@
-import pymysql
+from argparse import FileType
 
-print('oi')
+import flet as ft 
+
+def main(page: Flet)
