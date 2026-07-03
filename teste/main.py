@@ -1,2 +1,3 @@
-idsalçdakslld
+nome = "Ygor"
 
+print(nome)
