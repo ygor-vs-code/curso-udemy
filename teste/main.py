@@ -1,3 +1,3 @@
-nome = "Jorge"
+nome = "Ygor"
 
-print(nome)
+print("nome")
